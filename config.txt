@@ -1,0 +1,31 @@
+Statistics
+sno : None
+fin_ticker : what
+marketcap : what, how much
+enterprisevalue : what, how much
+return_on_assets : how much, what
+Total_cash : what
+open_cash_flow :what
+levered_free_cash_flow :what
+total_debt : what
+current_ratio : what, how much
+gross_profit :what, how much
+profit_margin :what, how much
+;profiles
+sno : None
+ticker : what
+name : what
+Address : where, what
+phonenumber : what
+website : what
+sector : what, which
+industry : what, which
+full_time : how many, what
+bus_summ : what
+;finance
+sno : None
+Finticker  : what
+totalrevenue: how much, what
+costofRevenue: how much, what
+income_before_tax : how much, what
+Net_income : what
